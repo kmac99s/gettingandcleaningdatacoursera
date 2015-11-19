@@ -42,6 +42,8 @@ run_analysis.R retains these values:
 mean(): Mean value
 std(): Standard deviation
 
+It also contains the subject ID number, "subject", and activity description, "activity"
+
 #Output
 
 The final output has these variables.
